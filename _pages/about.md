@@ -19,7 +19,7 @@ His research focuses on natural language processing and machine learning. His re
 - hallucination in vision-language models (VLMs);
 - LLM truthfulness and interpretability.
 
-Quick links: [CV](/cv/) · [Publications](/publications/) · [Contact](#contact) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+Quick links: [CV]({{ site.baseurl }}/cv/) · [Publications]({{ site.baseurl }}/publications/) · [Contact](#contact) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Academic Background
 
@@ -68,7 +68,7 @@ The following skill-relevant areas and methods are recorded in Junteng's researc
 
 ## Publications
 
-The publications recorded in memory are listed below. They are also available on the dedicated [Publications page](/publications/).
+The publications recorded in memory are listed below. They are also available on the dedicated [Publications page]({{ site.baseurl }}/publications/).
 
 ### 2025
 
